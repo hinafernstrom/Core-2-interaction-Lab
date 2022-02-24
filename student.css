@@ -23,26 +23,26 @@ body {
   width: 24%;
 }
 #hand {
-    float:left;
+  float:left;
   margin-left: 53%;
   margin-top: -40%; 
   width: 15%;
 }
 #boot {
-    float:left;
+  float:left;
   margin-left: 75%;
   margin-top: -16%; 
   width: 25%;
 }
-#hina {
+#student {
   margin-top: -7%;
 }
-#writing {
+#name {
   margin-left: 45%;
 }
 #thing {
   position: absolute;
   top: 20%;
-  margin-left: 87%;
+  margin-left: 38%;
   width:15%;
 }
