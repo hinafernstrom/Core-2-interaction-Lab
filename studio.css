@@ -16,6 +16,7 @@ body {
   font-family: sans-serif;
   background-color: #2F5BF6;
 }
+
 #person {
   float:left;
   margin-left: 69%;
@@ -29,20 +30,24 @@ body {
   width: 15%;
 }
 #boot {
-    float:left;
+  float:left;
   margin-left: 75%;
   margin-top: -16%; 
   width: 25%;
 }
-#hina {
+
+
+#studio {
   margin-top: -7%;
 }
+
 #writing {
   margin-left: 45%;
 }
+
 #thing {
   position: absolute;
   top: 20%;
-  margin-left: 87%;
+  margin-left: -10.7%;
   width:15%;
 }
